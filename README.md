@@ -12,6 +12,18 @@ Allow the user to choose  one of these options
  7) MAC Address lookup tools
  8) Commonly used IP sites used to make Reports 
 
+#Requirements 
+from python 2.7 and upwards 
+Here is a link for the lastest python 
+https://www.python.org/downloads/
+
+#How to run
+Open command prompt and type: python Cyberlookup.py
+Note: ensure the comand prompt directry is in the same directry where the file is stored before running.
+Example: if the files is stored on the desktop
+         Open cmd, type "cd desktop" then "python Cyberlookup.py" 
+
+#Description and Features
 If the user picks option 1, they are prompted to enter a vaild public IP address and once it is valid the browser will actomatically open most links with inputed IP address results. These websites will each be opened in a separate tab.
 
 ip2location.com/demo
